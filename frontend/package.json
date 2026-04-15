@@ -1,7 +1,5 @@
 {
-  "name": "infrastats",
-  "version": "0.1.0",
-  "private": true,
+  "name": "frontend",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -25,9 +23,6 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.3",
     "tailwindcss": "^4",
-    "typescript": "^5",
-    
-    "db:push": "drizzle-kit push",
-    "db:studio": "drizzle-kit studio"
+    "typescript": "^5"
   }
 }
